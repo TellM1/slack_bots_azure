@@ -1,22 +1,22 @@
 {
-  "name": "azure_hal_node_slack",
+  "name": "slack_bots_azure",
   "version": "1.0.0",
-  "description": "slackからのEventAPIを受け取り処理するためのslack app用APIserver",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TellM1/Azure_hal_node_slack.git"
+    "url": "git+https://github.com/TellM1/slack_bots_azure.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TellM1/Azure_hal_node_slack/issues"
+    "url": "https://github.com/TellM1/slack_bots_azure/issues"
   },
-  "homepage": "https://github.com/TellM1/Azure_hal_node_slack#readme",
+  "homepage": "https://github.com/TellM1/slack_bots_azure#readme",
   "dependencies": {
     "@slack/bolt": "^3.12.1",
     "dotenv": "^16.0.3",
