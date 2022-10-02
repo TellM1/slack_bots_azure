@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Hal-Node-slack-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3807C333F91484BAE0821F82954B687 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_208A7CF123B8480D973692196A84CDDA }}
           package: .
